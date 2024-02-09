@@ -23,4 +23,4 @@
 - When your webhook sends data to the server, you should see those data on your terminal
 
 ### Mentions
-- Special thanks goes to [localtunnel](https://localtunnel.github.io/www/) for this project possible.
+- Special thanks goes to [localtunnel](https://localtunnel.github.io/www/).
