@@ -1,5 +1,5 @@
 {
-  "name": "server-webhook",
+  "name": "webhook-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agonxgashi/server-webhook.git"
+    "url": "git+https://github.com/agonxgashi/webhook-server.git"
   },
   "keywords": [
     "ngrok",
@@ -20,9 +20,9 @@
   "author": "agonxgashi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/agonxgashi/server-webhook/issues"
+    "url": "https://github.com/agonxgashi/webhook-server/issues"
   },
-  "homepage": "https://github.com/agonxgashi/server-webhook#readme",
+  "homepage": "https://github.com/agonxgashi/webhook-server#readme",
   "dependencies": {
     "express": "^4.18.2",
     "localtunnel": "^2.0.2"
