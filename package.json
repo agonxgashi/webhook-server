@@ -1,0 +1,30 @@
+{
+  "name": "ngrok-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agonxgashi/ngrok-webhook.git"
+  },
+  "keywords": [
+    "ngrok",
+    "webhook",
+    "tunnel",
+    "local",
+    "localtunnel"
+  ],
+  "author": "agonxgashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agonxgashi/ngrok-webhook/issues"
+  },
+  "homepage": "https://github.com/agonxgashi/ngrok-webhook#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "localtunnel": "^2.0.2"
+  }
+}
